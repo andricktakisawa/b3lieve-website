@@ -1,0 +1,57 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "LodgingBusiness",
+    "name": "B3LIEVE Cabinas",
+    "url": "https://www.b3lieve.com.mx/",
+    "image": "https://www.b3lieve.com.mx/assets/images/logo.svg",
+    "description": "B3LIEVE es una empresa que hace de los eventos experiencias inigualables y mágicas con sus increíbles booths.",
+    "priceRange": "$5,300 - $5,900 por hora y media",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Sevilla 804",
+      "addressLocality": "Portales Nte, Benito Juárez",
+      "addressRegion": "Ciudad de México",
+      "postalCode": "03300",
+      "addressCountry": "MX"
+    },
+    "telephone": "+52 1 55 7376 1992",
+    "email": "hola@b3lieve.com.mx",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Lunes",
+          "Martes",
+          "Miércoles",
+          "Jueves",
+          "Viernes"
+        ],
+        "opens": "10:00",
+        "closes": "17:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "10:00",
+        "closes": "13:00"
+      }
+    ],
+    "review": {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "4.5",
+        "bestRating": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Enrique Zurita"
+      },
+      "datePublished": "2022-07-05",
+      "description": "Contraté la Magic Mirror Booth de B3LIEVE para la fiesta de mi mamá y estaba maravillada con lo rápido que avanza la tecnología, así como con la grata experiencia que tuvimos. La volvería a contratar en todos mis eventos."
+    }
+  }
+  
